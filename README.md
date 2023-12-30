@@ -1,2 +1,2 @@
-# Python_project
+# Quiz_project
 This is my first Project.
